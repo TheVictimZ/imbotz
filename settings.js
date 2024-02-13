@@ -12,28 +12,28 @@ global.owner = [
 ]; 
 global.fsizedoc = "45000000000";
 global.fpagedoc = "19";
-global.numberbot = "62838428395554";
-global.namedoc = "Akiraa Bot Whatsapp Multi device";
-global.nameowner = "LEXIC TEAM",
-global.bisnis = "6281224115259@s.whatsapp.net";
+global.numberbot = "62877424664772";
+global.namedoc = "Chel AI";
+global.nameowner = "Chel",
+global.bisnis = "62877424664779@s.whatsapp.net";
 global.mail = "akiraaverifakun@gmail.com";
-global.nomorown = "6281389103794";
-global.dana = "6283842839555";
-global.pulsa = "6283842839555";
-global.ovo = "6283842839555";
+global.nomorown = "62895385067778";
+global.dana = "62895385067778";
+global.pulsa = "62895385067778";
+global.ovo = "62895385067778";
 global.APIs = {}
 global.APIKeys = {}
-global.namebot = "*Kaguya Sama*";
-global.sgc = "https://chat.whatsapp.com/DQYx0cW0XV33nJjobm7Sk9";
-global.sourceUrl = "https://chat.whatsapp.com/DQYx0cW0XV33nJjobm7Sk9";
-global.sig = "https://chat.whatsapp.com/DQYx0cW0XV33nJjobm7Sk9";
-global.swa = "wa.me/6281389103794";
+global.namebot = "*Chel AI*";
+global.sgc = "https://chat.whatsapp.com/ICGggaBZI8s5CkQ0yEK3K9";
+global.sourceUrl = "https://chels.my.id";
+global.sig = "https://instagram.com/chel_hbs";
+global.swa = "wa.me/62895385067778";
 global.gif = "https://telegra.ph/file/d5d4388c9c5c079e77025.mp4"; 
 let cover = [ 'https://telegra.ph/file/e561c6103d25b8f7164e8.jpg', 'https://telegra.ph/file/e8d3feee0e8f06b6620a0.jpg', 'https://telegra.ph/file/e49f5c34dcd0bd7946e9f.jpg'
 ]
 global.thumb = pickRandom(cover);
 global.version = "2.0";
-global.wm = "shinomiya Tech Bot WhatsApp"
+global.wm = "Chel AI"
 global.done = "```© Kaguya Sama Renewd 2024```";
 global.fla =
   "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text="
@@ -41,7 +41,7 @@ global.wait = "```Loading...```";
 global.eror = "```[ ❌ ] Error system please Chat my Owners```"
 // GANTI WM DISINI
 global.packname = "🎀 Kaguya Sama";
-global.author = `Made By Lexic`;
+global.author = `Made By Chel Studio`;
 
 /*====================
      OTP SMS SETTING 
