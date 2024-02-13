@@ -16,7 +16,7 @@ let text;
     m.reply(wait)
     try {
     let chat = await Scraper.Gpt.ChatGpt(text)
-    let hasil = "*AI ASSISTENT SHINOMIYA*" + '\n' + chat.answer
+    let hasil = "*CHEL AI ASSISTEN*" + '\n' + chat.answer
     conn.reply(m.chat,hasil, m, adReply)
    } catch (e) {
 m.reply(eror)
